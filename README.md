@@ -1,6 +1,7 @@
 ## Install project
 <ol>
 <li>Ensure that composer and npm installed</li>
+<li>Clone repo</li>
 <li>Run 'composer install' command</li>
 <li>Run 'npm install' command</li>
 <li>Set database variables in .env file</li>
